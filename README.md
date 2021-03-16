@@ -6,6 +6,8 @@
 
 - Throughout your Lambda School experience thus far you have learned how to work with Git/GitHub and have had practice using the basic commands for staging, committing, pushing, and publishing your commits to a fork. Learning now, the rest of what you need in order to work as a productive member of a product organization will set you up for success not only in labs, but give you insight into what how the product teams work in the real world.
 
+I'm adding a smiling face :-)
+
 ## Purpose
 
 - Knowing a team work flow using Git/GitHub is absolutely vital for you to succeed as a tech professional. That is the purpose of this exercise.
