@@ -4,7 +4,11 @@
 
 ## Description
 
-- Throughout your Lambda School experience thus far you have learned how to work with Git/GitHub and have had practice using the basic commands for staging, committing, pushing and publishing your commits to a fork. Learning now, the rest of what you need in order to work as a productive member of a product organization will set you up for success not only in labs, but give you insight into what how the product teams work in the real world.
+<<<<<<< HEAD
+- Throughout your Lambda School experience thus far you have learned how to work with Git/GitHub and have had practice using the basic commands for staging, committing, pushing, and publishing your commits to a fork. Learning now, the rest of what you need in order to work as a productive member of a product organization will set you up for success not only in labs, but give you insight into what how the product teams work in the real world.
+=======
+- Throughout your Lambda School experience thus far you have learned how to work with Git/GitHub and have had practice using the basic commands for staging, commiting, pushing, and publishing your commits to a fork. Learning now, the rest of what you need in order to work as a productive member of a product organization will set you up for success not only in labs, but give you insight into what how the product teams work in the real world.
+>>>>>>> 24389a440576089c56ab4ff20049831b53f87135
 
 ## Purpose
 
