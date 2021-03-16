@@ -8,6 +8,8 @@
 
 I'm adding a smiling face :-)
 
+:-O
+
 ## Purpose
 
 - Knowing a team work flow using Git/GitHub is absolutely vital for you to succeed as a tech professional. That is the purpose of this exercise.
